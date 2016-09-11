@@ -629,7 +629,7 @@
   \phantomsection{}
   \paragraphstyle{#1}
   \color{gray}\vhrulefill{0.9pt}
-  \par\nobreak\addvspace{0.4ex}
+  \par\nobreak\addvspace{0.2ex}
 }
 
 % Define a title of the cover letter
